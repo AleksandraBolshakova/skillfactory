@@ -1,11 +1,1 @@
-pwd
-cd
-cat
-git clone
-git commit
-git add
-git push
-touch
-ls
-ls -la
-git restore <имя файла>
+текст с выполненными командами по созданию, объединению веток, разрешений конфликтов
