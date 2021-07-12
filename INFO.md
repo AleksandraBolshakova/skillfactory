@@ -1,5 +1,11 @@
-git branch
-git branch <имя ветки>
-git checkout <имя ветки>
-git checkout -
-git checkout -b <имя ветки>
+pwd
+cd
+cat
+git clone
+git commit
+git add
+git push
+touch
+ls
+ls -la
+git restore <имя файла>
